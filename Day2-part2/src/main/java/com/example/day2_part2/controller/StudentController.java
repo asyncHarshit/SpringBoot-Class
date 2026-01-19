@@ -17,6 +17,8 @@ public class StudentController {
         arr.add(new StudentModel("1", "Harshit", "harshit@gmail.com"));
         arr.add(new StudentModel("2", "Rahul", "rahul@gmail.com"));
         arr.add(new StudentModel("3", "Ankit", "ankit@gmail.com"));
+        arr.add(new StudentModel("4", "Rohit", "rohit@gmail.com"));
+        arr.add(new StudentModel("5", "Kohli", "kohli@gmail.com"));
 
         return arr;
     }
