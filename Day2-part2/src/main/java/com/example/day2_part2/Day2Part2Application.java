@@ -11,3 +11,4 @@ public class Day2Part2Application {
     }
 
 }
+
