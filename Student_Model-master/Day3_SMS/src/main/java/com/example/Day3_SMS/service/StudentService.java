@@ -17,6 +17,12 @@ public class StudentService {
     public StudentModel addStudent(StudentModel student){
             return repository.save(student);
     }
+    public List<StudentModel> getStudents(){
+        return repository.findAll();
+
+    }
+
+    public
 
 
 
