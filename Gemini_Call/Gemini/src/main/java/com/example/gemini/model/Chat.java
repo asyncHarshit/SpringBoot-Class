@@ -13,4 +13,4 @@ public class Chat {
 
     private String userQuery;
     private String geminiResponse;
-}
+}   
